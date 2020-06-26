@@ -1,0 +1,160 @@
+
+
+
+.new-feed{
+	width: 600px;
+	height: 800px;
+
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
+	margin-left: 230px;
+	margin-top: 25px;
+	border: 0.1px solid;
+	border-color: #ddd;
+}
+
+.line1{
+	height: 60px;
+	
+}
+
+.line1 img{
+	width: 40px;
+	height: 40px;
+}
+.line1 img{
+	position: absolute;
+	border-radius: 20px;
+	left: 250px;
+	top: 217px;
+}
+.line1 span{
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 14px;
+	position: absolute;
+	top: 230px;
+	left: 305px;
+}
+
+.icon i{
+	position: absolute;
+	left: 800px;
+	top: 230px;
+}
+
+.line2 img{
+		width: 600px;
+		height: 800px;
+}
+
+/*---------LINE3 : THE ICONS UNDER IMAGES-----------*/
+
+.line3-icon {
+	margin-top: 10px;
+	
+
+}
+.line3-icon >i {
+	display: inline-flex;
+	padding-left:  10px;
+}
+
+.icon-mark {
+	position: absolute;
+	right: 700px;
+	top: 1085px;
+}
+
+
+
+
+/*---------LINE4 : LIKE, COMMENT,...------------*/
+
+.line4{
+	width: 600px;
+	height: 150px;
+	margin-top: 5px;
+	
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.like img{
+	width: 20px;
+	height: 20px;
+	border-radius: 10px;
+	position: relative;
+	left: 12px;
+	top: 5px;
+	
+}
+.like span{
+	margin-left: 20px;
+
+}
+.status{
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.all-comment{
+	color: #bbb;
+	margin-top: 5px;
+	margin-left: 10px;
+}
+.comment {
+	font-family: 'Roboto Condensed', sans-serif;
+	margin-top: 5px;
+	margin-left: 10px;
+}
+.comment span {
+	padding-left: 1px;
+}
+.time{
+
+	padding-top: 5px;
+	font-size: 12px;
+	color: #bbbb;
+	margin-left: 10px;
+}
+
+/*-----LINE 5: KHUNG BINH LUAN, POST ------*/
+
+.line5{
+	width: 600px;
+	height: 46px;
+	border: 1px solid;
+	border-color: #bbbb;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+	
+}
+.line5 input{
+	width: 400px;
+	margin-left: 10px;
+	height: 40px;
+	font-size: 14px;
+	border: hidden;
+
+}
+
+.post{
+	
+	
+	font-size: 20px;
+	font-weight: bold;
+	position: absolute;
+	left: 770px;
+	top: 1285px;
+}
+.post a{
+	color: #0066ff;
+	text-decoration: none;
+
+}
+
+/*------NEXT------*/
+
+.next{
+	width: 600px;
+	height: 1000px;
+	
+
+}
